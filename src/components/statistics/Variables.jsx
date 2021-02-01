@@ -1,0 +1,13 @@
+export let usersCount = [];
+export let page = [];
+export let user_id = [];
+user_id[0] = 0;
+export let box = [];
+export let startDate = [];
+startDate[0] = 2;
+export let endDate = [];
+endDate[0] = 3;
+export let show = [];
+show[0] = 0;
+export let first_name = [];
+export let sur_name = [];

@@ -1,0 +1,79 @@
+ .filter .link_personal{
+    text-decoration: none;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #ffffff;
+    font-size: 14px;
+}
+.diagram_places{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.diagram_place_one{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.diagram_place_one .user_name{
+    position: absolute;
+    width: 500px;
+    height: 39px;
+    left: 130px;
+    top: 0px;
+    font-family: 'Montserrat-bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    color: #1A1A1A;
+}
+.diagram_place_one .clicks{
+    position: absolute;
+    width: 75px;
+    height: 29px;
+    left: 130px;
+    top: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1A1A1A;
+}
+.diagram_place_one .chart_one{
+    width: 1105px;
+    height: auto;
+    position: absolute;
+    top:110px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+.diagram_place_two{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top:630px;
+    left: 0px;
+}
+.diagram_place_two .views{
+    position: absolute;
+    width: 75px;
+    height: 29px;
+    left: 130px;
+    top: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1A1A1A;
+}
+.diagram_place_two .chart_two{
+    width: 1105px;
+    height: auto;
+    position: absolute;
+    top:110px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
